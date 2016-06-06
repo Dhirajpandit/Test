@@ -1,4 +1,4 @@
-node()
+node
 {
   echo "Welcome To Jenkins File"
 }
